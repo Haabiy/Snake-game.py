@@ -1,2 +1,2 @@
 # Snake-game.py
-Implemented the basic features of the game
+-Implemented the basic features of the game
